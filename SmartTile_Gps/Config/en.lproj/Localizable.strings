@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  SmartTile_Gps
+
+  Created by FangLin on 2020/9/29.
+  Copyright © 2020 fanglin. All rights reserved.
+*/
+
+"Message_message" = "Message";
+"Message_Contact" = "Contact";
+"Message_TrustGroup" = "TrustGroup";
+"Message_Image" = "Image";
+"Message_Video" = "Small video";
+"Message_Audio" = "Voice";
+"Message_Location" = "Location";
+"Message_VideoCall" = "Video Call";
+"Message_OrderMessage" = "Order Message";
+"Contact_NewFriend" = "New Friend";
+"Contact_AddFriend" = "Add Friend";
+"Contact_CreateTrustGroup" = "Create Group";
+"Cancel" = "cancel";
+"Search_EnterID" = "Please enter ID";
+"Contact_contacts" = "%d contacts";
+
+"Home_NoOrderMessage" = "No order message";
+"Home_hasOrdrMessage" = "Order message from %@";
+"Home_Detail" = "Detail";
+"Finish" = "Finish";
+"Set_notes" = "Set notes";
+"Remark_name" = "Remark name";
+"Wait_Drive_takeOrder" = "Waiting for driver to take order";
+"Drive_Want_Pickup_child" = "%@ wants to pick up children";
+"Wait_Drive_Pickup_child" = "Waiting for driver to pick up child";
+"Drive_Goto_child" = "The driver go to pick up the child";
+"Drive_has_pickup_child" = "The driver has picked up the child";
+"Arrived_destination" = "Arrived at the destination";
+"No_travel_status" = "No travel status";
+"My_pickup" = "My pickup";
+"Please_pickup" = "Please pickup";
+"Agree" = "Agree";
+"Start_Location" = "Start Location";
+"End_Location" = "End Location";
+"Confirmation_delivered" = "Confirmation has been delivered?";
+"Order_completed" = "Order completed";
+"Determine" = "determine";
+"Order_cancel" = "Order cancelled";
+"Pickup_request" = "Pick up request";
+"Order_sent_successfully" = "Order sent successfully";
+"Boarding_position" = "Boarding location";
+"Delivery_location" = "Delivery location";
+"Order_Detail" = "Order Detail";
+"Confirm_Logout" = "Are you sure to log out?";
+"Equipment_management" = "Equipment management";
+"My_QR_code" = "My QR code";
+"about_us" = "About us";
+"log_out" = "sign out";
+
+"Request Sent" = "Request Sent";
+"Help pick up" = "Help pick up";
+"The order accepted" = "The order accepted";
+
+"Bind_sevice" = "Bind device";
+"DeviceId_Name" = "Device ID:";
+"Name" = "Name";
+"Contact_information" = "Contact Information";
+"child_contact" = "Child phone";
+"One_Contact" = "First contact";
+"Two_Contact" = "Second contact";
+"save" = "save";
+"Equipment management" = "Equipment management";
+"delete" = "delete";
+"delete_suc" = "successfully deleted";
+"child_sos" = "Your child calls sos";
+"child_drown_open" = "The device triggers a wading event";
+"child_drown_close" = "The equipment wading incident has been lifted";
+
+"Setting" = "Setting";
+"Time_interval" = "Time Interval";

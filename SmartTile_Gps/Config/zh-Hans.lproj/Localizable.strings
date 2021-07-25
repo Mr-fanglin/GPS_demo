@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  SmartTile_Gps
+
+  Created by FangLin on 2020/9/29.
+  Copyright © 2020 fanglin. All rights reserved.
+*/
+
+"Message_message" = "消息";
+"Message_Contact" = "通讯录";
+"Message_TrustGroup" = "信任群";
+"Message_Image" = "图片";
+"Message_Video" = "小视频";
+"Message_Audio" = "语音";
+"Message_Location" = "位置";
+"Message_VideoCall" = "视频通话";
+"Message_OrderMessage" = "订单消息";
+"Contact_NewFriend" = "新朋友";
+"Contact_AddFriend" = "添加朋友";
+"Contact_CreateTrustGroup" = "创建信任群";
+"Cancel" = "取消";
+"Search_EnterID" = "请输入ID";
+"Contact_contacts" = "%d位联系人";
+
+"Home_NoOrderMessage" = "暂无订单消息";
+"Home_hasOrdrMessage" = "来自%@的订单消息";
+"Home_Detail" = "详情";
+"Finish" = "完成";
+"Set_notes" = "设置备注";
+"Remark_name" = "备注名";
+"Wait_Drive_takeOrder" = "等待司机接单中";
+"Drive_Want_Pickup_child" = "%@想接送小孩";
+"Wait_Drive_Pickup_child" = "等待司机去接小孩";
+"Drive_Goto_child" = "司机已出发去接小孩";
+"Drive_has_pickup_child" = "司机已接到小孩";
+"Arrived_destination" = "已到达目的地";
+"No_travel_status" = "暂无出行状态";
+"My_pickup" = "自己接送";
+"Please_pickup" = "请人接送";
+"Agree" = "同意";
+"Start_Location" = "开始位置";
+"End_Location" = "结束位置";
+"Confirmation_delivered" = "确认已送达完成订单?";
+"Order_completed" = "订单已完成";
+"Determine" = "确定";
+"Order_cancel" = "订单已取消";
+"Pickup_request" = "接送请求";
+"Order_sent_successfully" = "订单发送成功";
+"Boarding_position" = "上车位置";
+"Delivery_location" = "送达位置";
+"Order_Detail" = "订单详情";
+"Confirm_Logout" = "确定退出登录？";
+"Equipment_management" = "设备管理";
+"My_QR_code" = "我的二维码";
+"about_us" = "关于我们";
+"log_out" = "退出登录";
+
+"Request Sent" = "请求已发出";
+"Help pick up" = "帮忙接送";
+"The order accepted" = "订单已被接了";
+
+"Bind_sevice" = "绑定设备";
+"DeviceId_Name" = "设备ID:";
+"Name" = "姓名";
+"Contact_information" = "联系方式";
+"child_contact" = "小孩电话";
+"One_Contact" = "第一联系人";
+"Two_Contact" = "第二联系人";
+"save" = "保存";
+"Equipment management" = "设备管理";
+"delete" = "删除";
+"delete_suc" = "删除成功";
+"child_sos" = "你的小孩呼叫sos";
+"child_drown_open" = "设备触发涉水事件";
+"child_drown_close" = "设备涉水事件已解除";
+
+"Setting" = "设置";
+"Time_interval" = "时间间隔";
